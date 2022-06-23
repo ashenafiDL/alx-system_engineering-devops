@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find -type d -exex chmod ugo+x {} \; 
+chmod a+x *
