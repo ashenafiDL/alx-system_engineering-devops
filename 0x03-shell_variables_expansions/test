@@ -1,0 +1,10 @@
+bin
+boot
+dev
+etc
+home
+int
+lib
+lib32
+lib64
+
