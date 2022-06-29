@@ -1,3 +1,2 @@
 #!/bin/bash
-cut -f -1 | paste - - | cut -f 1
-
+11;rgb:0000/0000/0000cut -f -1 | paste - - | cut -f 1
